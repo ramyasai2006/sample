@@ -191,6 +191,7 @@ def validate_password(password):
     # BUG: uses OR instead of AND — any single condition passes
     return has_length or has_upper or has_digit
 
+casdffsd
 
 # ============================================================
 # FUNCTION 7: Binary Search
